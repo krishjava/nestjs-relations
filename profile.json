@@ -1,0 +1,968 @@
+[
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02acb092-0789-d7ce-24cf-ff38f6a37284",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f096-8f8f-00526ed449e2",
+                "title": "Import and Export with Data Management Tools",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/import-and-export-with-data-management-tools/3e783c7fff06c196ab8e71e75cf32e61_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/import-and-export-with-data-management-tools",
+                    "description": "Use dataloader.io and the Data Import Wizard to manage data in Salesforce."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02acb04d-0c20-09d6-4df2-dbfce7017891",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f010-4d5b-467485d1653e",
+                "title": "Duplicate Management",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/sales_admin_duplicate_management/950e39701e85e96313aa77529610055b_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/sales_admin_duplicate_management",
+                    "description": "Resolve and prevent duplicate records to increase user confidence in your data."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02acb041-723c-2bec-df56-cc553445b961",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f02e-05ac-62d9637f1e9d",
+                "title": "Chatter Administration for Lightning Experience",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_implementation_chatter/7582bfb8dcab3820e5856a581aedc742_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/lex_implementation_chatter",
+                    "description": "Get started with Chatter administration in Lightning Experience."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02acafed-dceb-8ff5-6974-8af85e0a1df3",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f060-3748-0b9c62a1bede",
+                "title": "Create a Process for Managing Support Cases",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/create-a-process-for-managing-support-cases/052bb56ca49fcc9ccd01c771e2de3f3e_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/create-a-process-for-managing-support-cases",
+                    "description": "Streamline workflow and improve productivity with new processes, record types, and rules."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02acafe6-8c00-e8b5-ee74-dfaa9844ab66",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0b7-c82b-a4db8d143e7d",
+                "title": "Set Up the Service Console",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/set-up-the-service-console/2d8c54d789c7043164bd7fdcd90f5fb0_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/set-up-the-service-console",
+                    "description": "Create a customized app to help support agents efficiently manage cases."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02ac75dd-616a-ee8a-34f7-67ff3d0a4603",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f04d-bd24-88e38cb12c62",
+                "title": "Protect Your Data in Salesforce",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/protect-your-data-in-salesforce/004ad71c614a016eda94ea2e864a1258_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/protect-your-data-in-salesforce",
+                    "description": "Secure your Salesforce org by controlling login and data access for users."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02ac7491-5d7e-20ba-7074-5c14b808c8d0",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02ac7399-43f6-60d5-a9d7-49c549f1121f",
+            "award": {
+                "__typename": "Award",
+                "id": "026832df-0f8a-d4e7-a6eb-aa82dfafb572",
+                "title": "User Management",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_implementation_user_setup_mgmt/0ca91d0e5d2adc008ddc826eca1e95a2_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/lex_implementation_user_setup_mgmt",
+                    "description": "Set up users and control how they can view or edit your business data."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02ac738e-2640-329d-8823-22594e1b6c56",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f043-9737-10482f465161",
+                "title": "Quick Start: Process Builder",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-process-builder/5d87271ddc2d371e21ba8c50bf0284e0_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/quickstart-process-builder",
+                    "description": "Trigger a field update when a related record is edited. No code required."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02ac6149-99ad-05b8-db55-37145111d12d",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f05a-135c-278a7849ffa8",
+                "title": "Prepare Your Salesforce Org for Users",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/prepare-your-salesforce-org-for-users/c25140794681cd01d60fe83bf8cdb806_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/prepare-your-salesforce-org-for-users",
+                    "description": "Set up the tools your users need to sell in a global business."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02aa1d33-d05a-c624-2704-da57f8929936",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-c917-7771-c252-87a0ff6562dc",
+                "title": "Mobile Messaging Strategies",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/mobile-messaging-strategies/b8de178144af1150bbb7da48e6ed18d9_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/mobile-messaging-strategies",
+                    "description": "Maximize your mobile marketing with SMS, app, Facebook, and LINE messages."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02aa063b-f4e1-69f7-b8ff-8a4f2ef0d9f3",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0ef-235f-2ff7961620dd",
+                "title": "Content Builder Basics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/content-builder-basics/5e34d850c71229dbb73da362d1358fb8_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/content-builder-basics",
+                    "description": "Learn how Content Builder can help you organize and manage your content."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a964b3-aca5-0614-da76-3b40ae3e2a95",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0aa-f93d-77068858024e",
+                "title": "Salesforce Customer 360: Quick Look",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/salesforce-customer-360-quick-look/5e5bdaed9747b36047f9d4c8a884c254_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/salesforce-customer-360-quick-look",
+                    "description": "Put customers at the center of everything with Salesforce Customer 360."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a964b0-9eaa-40f5-85bc-2ed06d546060",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f047-de5e-f678ddcf6709",
+                "title": "Salesforce: Quick Look",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/salesforce-quick-look-1/259d8619519bb3912ef0100cee5071cc_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/salesforce-quick-look-1",
+                    "description": "Learn how Salesforce helps your business build stronger relationships with your customers."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a92a8b-49ce-78fd-4af6-19168c6bfef9",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a92a8b-4917-1045-95ff-34df67e6deb8",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a87495-8ef0-ef16-4560-95bd94126433",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f043-8a6a-0f825f8295b9",
+                "title": "Personalized Email Marketing",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/personalized-email-marketing/fba8b7eee5098d5bc9e65ceb9e22df80_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/personalized-email-marketing",
+                    "description": "Manage preferences, create personalized content, and test your emails."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a860b2-b9e1-a98d-9301-b3acf7398884",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a8609c-7a90-2a74-3984-ab4c179cf8dd",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0f1-7573-7fbfc84d34ac",
+                "title": "Social Media Marketing & Engagement",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/social-media-marketing--engagement/78639480cb5de6fe4a5e8e17aae6cfb3_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/social-media-marketing--engagement",
+                    "description": "Listen to your social community, publish compelling content, and engage online."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a85fb1-8ba7-2bb8-06f1-94df2eb51338",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f075-5249-8bbaf89461ea",
+                "title": "Distributed Marketing Administration",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/distributed-marketing-administration/a0d7d4796ca30003cedb40603e3f3670_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/distributed-marketing-administration",
+                    "description": "Discover the power of Distributed Marketing and how to implement it."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a85df0-e227-0451-9940-2de41f4f8802",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f001-2619-d03a9733e202",
+                "title": "Marketing Cloud Connect Setup",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/marketing-cloud-connect/678499c52193bb179a311ee9e77dbe9b_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/marketing-cloud-connect",
+                    "description": "Configure Salesforce CRM and Marketing Cloud to share key data across your clouds."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a85dba-49e1-5078-9554-b8d4dde3982c",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f08c-400b-3c30dfdb6500",
+                "title": "Audience Segmentation",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/audience-segmentation/20de24808563c9dbdead92e8d76ba2b8_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/audience-segmentation",
+                    "description": "Segment your audience and deliver the right message to the right person at the right time."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a84aa1-32f5-b2c7-f9fd-cfeb4c7bcae8",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f003-8379-0728bc65ff68",
+                "title": "Marketing Content Creation",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/marketing-content-creation/6ea59b89dd7ebeea1e6a5561f401859f_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/marketing-content-creation",
+                    "description": "Learn the value of successful content and how our tools can help you create it."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a849a5-65f0-955d-d110-d4aa395f0613",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f066-369a-3e0852ba2033",
+                "title": "Email Creation and Sending",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/email-creation-and-sending/a3fc6012025167c5fd3a2da0e693248d_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/email-creation-and-sending",
+                    "description": "Learn the three steps to creating effective marketing emails."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a84910-8ebf-ed28-4d61-dc396fa3453d",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0cc-ed5e-89a22eec025c",
+                "title": "Email Studio Basics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/email-studio-basics/24f8fe0c7558a18d87791022c3fae284_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/email-studio-basics",
+                    "description": "Tour Email Studio and discover tools to manage subscribers and create personalized emails."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a80e68-ea78-3113-d32e-63f39aea27b5",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f03e-9ea1-556308b78c52",
+                "title": "Marketing Automation Strategies",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/marketing-automation-strategies/c44b0bf63e277889105ee35f07b8cd28_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/marketing-automation-strategies",
+                    "description": "Learn to scale your marketing efforts using first-party data, templates, and automations."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a80d5a-b742-0815-b001-4c7f73be8e45",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f040-a1aa-621bfa4fada9",
+                "title": "Email Marketing Strategies",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/mr-email-marketing-strategies/02132ace98b122a5fa443cbbd6a95c35_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/mr-email-marketing-strategies",
+                    "description": "Discover best practices to use when designing and sending an email."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a7fd04-89bc-1909-f1ff-fe99f98a04f1",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f038-4a40-b8114ed87098",
+                "title": "Marketing Cloud Products",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/mrkt_cloud_studios_builders/19401a49be2f0b3e896b35037102ef8a_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/mrkt_cloud_studios_builders",
+                    "description": "Connect with the right person, the right way, at the right time with Marketing Cloud."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "02a7fa45-1d84-ed5e-f749-76bab5c4b421",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f01b-db68-d2847dfd7c50",
+                "title": "Marketing Cloud Basics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/mrkt_cloud_basics/bb76c1487a83ad8836d26c10f03ddfa4_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/mrkt_cloud_basics",
+                    "description": "Explore our powerful suite of products and start building your digital marketing strategy."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029e90a3-b5d7-2079-da1a-e96a9f930609",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0cf-dfa9-fbea8e561cf9",
+                "title": "Partner Relationship Management",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/partner-relationship-management/574cbe531061f5f401480dd108ff8f99_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/partner-relationship-management",
+                    "description": "Learn how Sales Cloud PRM can help you achieve your channel sales goals."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029e68ea-9d2e-830a-9b5a-d5a4b9e32ef1",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-735a-a020-cdc6-f4516dba4b49",
+                "title": "Identity for Mobile-Centric Customers",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/identity-for-mobile-centric-customers/0508675d76fd29c67e70c143368fffda_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/identity-for-mobile-centric-customers",
+                    "description": "Create a login experience designed for mobile interaction."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029e103f-cfe1-7b79-8d86-81c625287304",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f00c-1452-22040f3fccf9",
+                "title": "Set Up Salesforce Knowledge",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/set-up-salesforce-knowledge/8abbafd095f7a6b2497c7dede6a30386_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/set-up-salesforce-knowledge",
+                    "description": "Create, customize, and manage your knowledge base."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029e02f3-c400-6a42-1c3e-eec84fee3151",
+            "award": {
+                "__typename": "Award",
+                "id": "026832db-c506-da02-d632-bea15500e2b1",
+                "title": "UX Personas for Salesforce",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/ux-personas-for-salesforce/7017a2073c350de1841c65f6ffb89107_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/ux-personas-for-salesforce",
+                    "description": "Explore the Salesforce user research personas and learn how to use them at your business."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029ceaad-9819-be62-0284-f09f31308531",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-7562-1ad7-f829-db553df530f2",
+                "title": "Build a Custom Theme Layout Component for Experience Builder Sites",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/communities_theme_layout/227aabfcea3b5e59e48fa2d3144e0a98_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/communities_theme_layout",
+                    "description": "Customize your Experience Builder site with a theme layout component."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029a3d76-2d22-bab1-ab7b-43c94f513eec",
+            "award": {
+                "__typename": "Award",
+                "id": "0267f55d-263b-9c48-90e3-2f32ecb22055",
+                "title": "Build a Simple Flow",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/build-a-simple-flow/250ffca8049ecd6a8bcfbe0d6e3846ef_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/build-a-simple-flow",
+                    "description": "Use Flow Builder to capture and update contact information with a flow."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "029a3cd3-90e1-76a6-2d6d-5d91e52635f1",
+            "award": {
+                "__typename": "Award",
+                "id": "0267f55d-263b-9c8b-7f0d-47f781908446",
+                "title": "Flow Basics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/flow-basics/c2d1e1b78bb73f734b6f668e6f9428de_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/flow-basics",
+                    "description": "Explore Flow Builder and learn when to use flows to automate your business processes."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "0292ed76-8500-fd9c-3a24-5c547c4999f5",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028fb54f-4e80-1814-780e-31b1d903a3e9",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f023-55bb-49acd9b846f1",
+                "title": "Service Cloud Transition to Lightning Experience",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/service_trans/79f2a03587b62f26b534ba4e4781f134_badge.png",
+                "content": null
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028fb366-c715-3e26-5faf-b6d3b5e373f5",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0cc-6894-af5004e1f37d",
+                "title": "Service Metrics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/service_metrics/669c72fa8bc2626676fdaf6a23c4e803_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/service_metrics",
+                    "description": "Make better business decisions based on customer service data."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028fb254-42b6-e215-5535-aef50fa34812",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028fa259-a824-0758-19de-aff24947d046",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f024-cbac-bc9e0e34d6a6",
+                "title": "Survey Basics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/survey-basics/eb44040a39e7394b39615010683cc560_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/survey-basics",
+                    "description": "Gather insights from customers or employees with surveys."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028fa0ee-cca6-9f9d-93db-1f4752746e01",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0b5-aaa9-80b3f4c55078",
+                "title": "Knowledge Basics for Lightning Experience",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-knowledge-basics/6386d456dbab20e002b5edf166dd8a01_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-basics",
+                    "description": "Use Lightning Knowledge to create a knowledge base for better customer service."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028fa0be-55e7-74d1-566e-c2a3162cc808",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f008-5ed4-eb04f6898dcb",
+                "title": "Omni-Channel for Lightning Experience",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/omni-channel-lex/ccc4c464f7b98d66cdb210d6833bf12f_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/omni-channel-lex",
+                    "description": "Route work to the right agent for the job and get a complete view of your contact\n   center."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f9dc3-c519-d721-a884-07df6fd81a54",
+            "award": {
+                "__typename": "Award",
+                "id": "0267f55d-263b-9c4f-1b4a-10df7ee9c53d",
+                "title": "Entitlement Management for Lightning Experience",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/entitlement-management-for-lightning-experience/c319fd2c3eec409402b9bc5a1ad6ad15_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/entitlement-management-for-lightning-experience",
+                    "description": "Use entitlements to ensure your customers receive top-notch service."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f8f6f-afaf-58dd-bd0a-9ed9347af727",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f069-bcd9-a9d69601a0ec",
+                "title": "Salesforce Flow for Service",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/service_lightning_flow_for_service/3b62b4b3ece7ca807225e78a23a6d5e6_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/service_lightning_flow_for_service",
+                    "description": "Simplify onboarding and guide your agents to resolve cases quickly and consistently."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f8dd8-480e-1a28-a3c6-c5913a526b0b",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0a1-0e40-6641c8488b65",
+                "title": "Service Cloud Agent Productivity",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/service-cloud-agent-productivity/0d3390a149963e8e4c32a2b02bac7949_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/service-cloud-agent-productivity",
+                    "description": "Help your agents work faster and more efficiently in the Service Console."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f8c85-71d1-2376-2b5b-18bb0a1ee23b",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f8c71-75d4-25e1-d240-73e314f40c83",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0bb-22e9-50da05d9af15",
+                "title": "Service Cloud for Lightning Experience",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/service_lex/b677a8a9a27fbc8a41414576453eb16f_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/service_lex",
+                    "description": "Set up customer service for your business."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f8945-8afe-d0e3-8b74-4ba91b24ccea",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f8935-de41-32ba-fb06-ff7d78ef4a03",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028f88f0-8811-3730-5139-55d73ef85033",
+            "award": null
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028e83cf-f183-5106-118e-4a0483cc3748",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0be-8bb8-61f16850ed02",
+                "title": "Build Reusable Lightning Components",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/build-reusable-lightning-components/6450e254474813f32f678c43ebb8a21b_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/build-reusable-lightning-components",
+                    "description": "Build Lightning components for any object, with the help of custom metadata and Apex."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028d93b7-8880-d38a-6fcc-4a2a77d0638e",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-714d-2b94-cfb4-d53acd69f671",
+                "title": "Flow Builder",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/flow-builder/f1d99c79f186cea8adac115627a4729b_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/flow-builder",
+                    "description": "Get to know Flow Builder and learn to automate your business process with a\n   flow."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028d92f8-7c7c-2562-df9f-54c0cb23bfee",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-70f2-1b07-7621-41e2bdef0157",
+                "title": "Strategies for Big Data Architecture",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/big-data-strategy/06e67599ba1dc1c13f687bdca5eb7fec_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/big-data-strategy",
+                    "description": "Learn strategies for managing big data in Salesforce."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028d92c6-8cc9-3c71-1a9d-b6a559bea3d5",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-7251-eab3-b09b-1d26237e233c",
+                "title": "Big Object Basics",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/big_objects/825ecb1d44d628868ed159c73661af57_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/big_objects",
+                    "description": "Learn about big objects, their use cases, and how to create and query\n   them."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028d59a2-7ac7-274f-b1d8-9524df11c0dd",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-78ea-71b2-5b89-88dd149b4f7f",
+                "title": "Create Permission Sets for Unlocked Packages",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/perm-set-unlocked/b8670ea3caaae394564a6db88e20e182_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/perm-set-unlocked",
+                    "description": "Use the Salesforce CLI to include permission sets in unlocked packages."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028d56ae-cabe-e681-fc3a-abde77f56e9f",
+            "award": {
+                "__typename": "Award",
+                "id": "026832dd-7186-8088-3a17-7d0fa4bb211e",
+                "title": "Quick Start: Unlocked Packages",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quick-start-unlocked-packages/df1694364e661e756472c9f45f5b3a5d_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/quick-start-unlocked-packages",
+                    "description": "Use unlocked packages to create, install, and update your source across orgs."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028cf5c2-a8c0-bc0d-7156-54bd0d22e0a9",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f00e-88c8-eb4a1b1ac616",
+                "title": "Package Development Readiness",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/package-development-readiness/088cf66ec8bb9165852ae173267060e0_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/package-development-readiness",
+                    "description": "Get ready to break up your org's metadata and adopt package development."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028cf45f-2898-d65a-0a2a-ea9d8180e95f",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0fa-3cc2-5cb2df7811bc",
+                "title": "App Development with Salesforce DX",
+                "type": "MODULE",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/sfdx_app_dev/9456a619f0ea917155046fbca33646a2_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/modules/sfdx_app_dev",
+                    "description": "Use the Salesforce command-line interface to create, convert, and deploy\n   apps."
+                }
+            }
+        }
+    },
+    {
+        "node": {
+            "__typename": "EarnedAwardBase",
+            "id": "028cf3dc-2914-32ac-2c9f-79e8e4633845",
+            "award": {
+                "__typename": "Award",
+                "id": "0265daac-f855-f0ba-6fdd-7b2329c30bf6",
+                "title": "Quick Start: Salesforce DX",
+                "type": "PROJECT",
+                "icon": "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quick-start-salesforce-dx/dda4c8d6571c1cbdd0d9fd579eacf385_badge.png",
+                "content": {
+                    "__typename": "Content",
+                    "webUrl": "https://trailhead.salesforce.com/content/learn/projects/quick-start-salesforce-dx",
+                    "description": "Use the Salesforce command-line interface to create, convert, and deploy apps."
+                }
+            }
+        }
+    }
+]
